@@ -29,4 +29,4 @@ const implementation = "This step transforms the idea into a tangible product. D
 
 const testingAndIntegration = "All the modules are brought together into a special testing environment to get checked for bugs and errors."
 
-const maintain = "During the maintainance step of SDLC, the system is evaluated to ensure everything is working. New features are mplemented as required."
+const maintain = "During the maintainance step of SDLC, the system is evaluated to ensure everything is working. New features are implemented as required."
